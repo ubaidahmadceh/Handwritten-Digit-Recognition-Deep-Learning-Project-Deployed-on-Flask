@@ -23,3 +23,8 @@ Here is the full working demo of the Project:
     </a>
   </div>
 </div>
+
+WhatsApp: +923484122900
+
+Email: ubaidp1049@gmail.com
+
