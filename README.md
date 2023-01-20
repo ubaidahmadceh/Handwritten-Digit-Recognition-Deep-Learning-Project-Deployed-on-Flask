@@ -6,7 +6,7 @@ I am Ubaid
 
 Here is the full working demo of the Project:
 
-[![Watch the video](https://img.youtube.com/vi/fHOhlWKRklU/0.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=fHOhlWKRklU&list=PLjowWp9YgJdqtHH5z7nFLPRHVduZD6Z3f&index=4))
+[![Watch the video](https://img.youtube.com/vi/fHOhlWKRklU/0.jpg)](https://www.youtube.com/watch?v=fHOhlWKRklU&list=PLjowWp9YgJdqtHH5z7nFLPRHVduZD6Z3f&index=4)
 
 ### Contact me:
 
